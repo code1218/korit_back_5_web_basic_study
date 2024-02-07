@@ -15,4 +15,7 @@ button {
     &:active {
         background-color: #aaa;
     }
+    &:focus {
+        outline: none;
+    }
 }
